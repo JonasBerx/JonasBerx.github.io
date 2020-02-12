@@ -1,3 +1,3 @@
-# jonasberx.github.io
+# My portfolio
 
-yeyeye yeet
+Jonas Berx Student UCLL
