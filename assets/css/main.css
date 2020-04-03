@@ -11,6 +11,8 @@
 body {
   -ms-overflow-style: scrollbar; }
 
+
+
 @media screen and (max-width: 480px) {
   html, body {
     min-width: 320px; } }
@@ -2057,7 +2059,7 @@ ul.icons {
     opacity: 1; }
 
 /* CTA */
-#cta {
+#cta, #contact,#competences {
   background-color: #0033ff;
   color: rgba(255, 255, 255, 0.75);
   background-attachment: fixed;
@@ -2208,7 +2210,7 @@ ul.icons {
 #footer {
   background-color: #111111;
   color: rgba(255, 255, 255, 0.5);
-  padding: 8rem 0 6rem 0 ; }
+  padding: 3rem 0 3rem 0 ; }
   #footer input, #footer select, #footer textarea {
     color: #ffffff; }
   #footer a {
